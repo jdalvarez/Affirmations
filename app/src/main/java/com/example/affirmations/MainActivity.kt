@@ -13,5 +13,5 @@ class MainActivity : AppCompatActivity() {
         textView.text = Datasource().loadAffirmations().size.toString()
     }
 
-    
+     jkwekjncq;x'wm'
 }
